@@ -104,7 +104,7 @@ it:
     no_posts: "Non ci sono ancora post qui"
     no_posts_filler: "Nessun post sotto questa linea. Probabilmente li hai letti tutti."
     subscribe: "Sottoscrivi"
-    add_subscription: "Aggiungi una sottoscrizione"
+    add_subscription: "Aggiungi sottoscrizione"
     add: "Aggiungi"
     url: "URL"
     invalid_url: "Non hai inserito un URL valito"
@@ -129,10 +129,10 @@ it:
     ago: "fa"
     never: "Mai"
     confirm: "Sei sicuro?"
-    mark_all_read: "Segna tutto come letto"
+    mark_all_read: "Segna tutto come già letto"
     search: "Cerca"
     search_limits: "La ricerca che hai fatto è molto popolare, abbiamo dovuto limitare il numero dei risultati. Se vuoi vedere tutti i risultati, per favore fai una ricerca più precisa."
-    mark_read: "Segna come letto"
+    mark_read: "Segna come già letto"
     mark_unread: "Segna come non letto"
     share: "Condividi"
     shared: "Condiviso"
@@ -214,7 +214,7 @@ it:
     sort_mode:
       title: "Ordine Dei Post"
       normal: "Normale"
-      reverse: "Rovesciata"
+      reverse: "Invertito"
     social: "Social"
     notify_when_followed: "Notifica via email quando qualcuno inizia a seguirti"
     share_timeline: "Pubblica le tue condivisioni sul tuo profilo Facebook"
@@ -302,7 +302,7 @@ it:
         
         Siamo fieri di informarti che abbiamo finito di importare le tue sottoscrizioni.
         %{count} feeds che hai importato dovrebbero essere ora disponibili a %{host}.
-        Grazie per usare The Old Reader.
+        Grazie di usare The Old Reader.
         
         -- 
         The Old Reader robot.
@@ -345,7 +345,7 @@ it:
     posts:
       title: "Scorciatoie per i post"
   alerts:
-    common: "Richiesta al server fallita, ti preghiamo di provare più tardi"
+    common: "Richiesta al server fallita, ti preghiamo di riprovare più tardi"
     posts: "Impossibile caricare i post"
   page_content:
     community:
